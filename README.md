@@ -84,3 +84,10 @@ Responda las siguientes preguntas:
 
 ## Bibliografía 
 
+- Boylestad, R. 2011. Introducción al análisis de circuitos. 12va. Edición. Pearson. 327-376.
+
+- Figueroa, D. 2006. Laboratorio de Física 2. Editorial Equinoccio. 03-1 y 14-1.
+
+- Ondas senoidales. Recobrado de: iessierradeguara.com
+
+- Serway, R. 2008.Física para Ciencias e Ingeniería. Volumen 2. Cengage Learning. 881- 884
