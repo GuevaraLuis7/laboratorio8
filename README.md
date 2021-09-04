@@ -52,31 +52,31 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 Responda las siguientes preguntas:
 
-- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+- **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-- ¿En qué valor está posicionada la perilla VOLTS/DIV?
+- **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-- ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+- **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-- ¿En qué valor está posicionada la perilla TIME/DIV?
+- **¿En qué valor está posicionada la perilla TIME/DIV?**
 
-- 7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+- **7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-Amplitud de voltaje: …………. (V)
+*Amplitud de voltaje: …………. (V)*
 
-Periodo: ………….(s)
+*Periodo: ………….(s)*
 
-- Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.
+- **Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.**
 
-f: …………. (Hz)
+*f: …………. (Hz)*
 
-w:............(rad/s)
+*w:............(rad/s)*
 
-- 7.5.7. Con el multímetro digital mida el voltaje de salida en RL:
+- **7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
 
-- Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+- **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 
-¿Coinciden? _______ ¿Por qué?
+*¿Coinciden? _______ ¿Por qué?*
 
 ## Video
 
