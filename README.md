@@ -32,6 +32,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ***Material y equipo requerido***
 
+<img src="Imagenes/tabla1.jpg">
+
 *Tabla I. Materiales y Equipo*
 
 ***Pasos a seguir***
@@ -43,6 +45,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 5. Contestar las preguntas con cada uno de los resultados obtenidos.
 
 ***Procedimiento***
+
+<img src="Imagenes/circ1.jpg">
 
 ## Resultados
 
