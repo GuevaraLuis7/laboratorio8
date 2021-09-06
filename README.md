@@ -72,7 +72,7 @@ Division por cuadro abarca un ciclo completo de la señal de salida:
 
 Calculado el periodo:
 
-Calculando la frecuencia angular:
+Calculando la frecuencia natural y angular:
 
 ## Resultados
 
