@@ -64,6 +64,8 @@ Analizamos la grafica senoidal que nos da el osciloscopio:
 
 <img src="Imagenes/simulacion4.jpg">
 
+Hallando el periodo:
+
 ## Resultados
 
 Responda las siguientes preguntas:
