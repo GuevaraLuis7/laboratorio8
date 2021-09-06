@@ -56,7 +56,11 @@ Armamos el circuito de la figura:
 
 Conectamos nuestro osciloscopio:
 
-Analizamos la grafica que nos da el osciloscopio:
+<img src="Imagenes/simulacion2.jpg">
+
+Analizamos la grafica senoidal que nos da el osciloscopio:
+
+<img src="Imagenes/simulacion3.jpg">
 
 ## Resultados
 
