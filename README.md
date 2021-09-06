@@ -78,6 +78,14 @@ Calculando la frecuencia natural y angular:
 
 <img src="Imagenes/calculo2.jpg">
 
+Midiendo con el Múltimetro el voltaje de salida en RL:
+
+<img src="Imagenes/simulacion6.jpg">
+
+Calculando el valor eficaz del Voltaje obtenido mediante el osciloscopio:
+
+<img src="Imagenes/calculo3.jpg">
+
 ## Resultados
 
 Responda las siguientes preguntas:
@@ -111,6 +119,8 @@ La perilla de TIME/DIV esta en: 0.1ms
 *w: **1507.9** (rad/s)*
 
 - **7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
+
+El voltaje de salida en RL obtenido mediante el multímetro digital es aproximado de 4.846 V.
 
 - **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 
