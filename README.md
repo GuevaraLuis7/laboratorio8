@@ -50,6 +50,14 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="Imagenes/circ1.jpg">
 
+Armamos el circuito de la figura:
+
+<img src="Imagenes/simulacion1.jpg">
+
+Conectamos nuestro osciloscopio:
+
+Analizamos la grafica que nos da el osciloscopio:
+
 ## Resultados
 
 Responda las siguientes preguntas:
