@@ -90,39 +90,39 @@ Calculando el valor eficaz del Voltaje obtenido mediante el osciloscopio:
 
 Responda las siguientes preguntas:
 
-- **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
+- **a. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
 La amplitud pico de subida de la señal es un valor aproximado de 2.3 divisiones por cuadro, mediante el grafico podemos observar que pasa lo mismo pero para la amplitud de bajada mediante lo cual podemos decir que el valor aproximado de la amplitud pico de la señal de salida es de 4.6 divisiones por cuadro.
 
-- **¿En qué valor está posicionada la perilla VOLTS/DIV?**
+- **b. ¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
 La perilla de VOLTS/DIV esta en: 3
 
-- **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
+- **c. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 Un ciclo completo de la señal de salida abarca un aproximado de 4 divisiones por cuadrado.
 
-- **¿En qué valor está posicionada la perilla TIME/DIV?**
+- **d. ¿En qué valor está posicionada la perilla TIME/DIV?**
 
 La perilla de TIME/DIV esta en: 0.1ms
 
-- **7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
+- **e. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
 *Amplitud de voltaje: **6.85** (V)*
 
 *Periodo: **0.0004** (s)*
 
-- **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
+- **f. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
 *f: **2500** (Hz)*
 
 *w: **1507.9** (rad/s)*
 
-- **7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
+- **g. Con el multímetro digital mida el voltaje de salida en RL:**
 
 El voltaje de salida en RL obtenido mediante el multímetro digital es aproximado de 4.846 V.
 
-- **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
+- **Compare el voltaje medido en el punto (e) y el obtenido en el punto (g)**
 
 *¿Coinciden?, ¿Por qué?*
 
