@@ -60,7 +60,7 @@ Conectamos nuestro osciloscopio:
 
 Analizamos la grafica senoidal que nos da el osciloscopio:
 
-<img src="Imagenes/simulacion3.jpg">
+<img src="Imagenes/simulacion3_.jpg">
 
 ## Resultados
 
