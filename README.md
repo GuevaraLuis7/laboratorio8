@@ -70,7 +70,7 @@ La perilla de TIME/DIV esta en: 1ms
 
 *Amplitud de voltaje: **6.85** (V)*
 
-*Periodo: ………….(s)*
+*Periodo: **0.004** (s)*
 
 - **Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.**
 
