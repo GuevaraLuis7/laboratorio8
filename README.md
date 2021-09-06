@@ -64,13 +64,13 @@ La perilla de VOLTS/DIV esta en: 3
 
 - **¿En qué valor está posicionada la perilla TIME/DIV?**
 
-La perilla de TIME/DIV esta en: 1ms
+La perilla de TIME/DIV esta en: 0.1ms
 
 - **7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
 *Amplitud de voltaje: **6.85** (V)*
 
-*Periodo: **0.004** (s)*
+*Periodo: **0.0004** (s)*
 
 - **Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.**
 
