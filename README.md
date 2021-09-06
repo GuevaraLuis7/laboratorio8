@@ -62,9 +62,17 @@ Analizamos la grafica senoidal que nos da el osciloscopio:
 
 <img src="Imagenes/simulacion3_.jpg">
 
+Division por cuadro que abarca la amplitud pico de la señal de salida:
+
 <img src="Imagenes/simulacion4.jpg">
 
-Hallando el periodo:
+Division por cuadro abarca un ciclo completo de la señal de salida:
+
+<img src="Imagenes/simulacion5.jpg">
+
+Calculado el periodo:
+
+Calculando la frecuencia angular:
 
 ## Resultados
 
@@ -80,6 +88,8 @@ La perilla de VOLTS/DIV esta en: 3
 
 - **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
+Un ciclo completo de la señal de salida abarca un aproximado de 4 divisiones por cuadrado.
+
 - **¿En qué valor está posicionada la perilla TIME/DIV?**
 
 La perilla de TIME/DIV esta en: 0.1ms
@@ -90,7 +100,7 @@ La perilla de TIME/DIV esta en: 0.1ms
 
 *Periodo: **0.0004** (s)*
 
-- **Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.**
+- **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
 *f: **2500** (Hz)*
 
