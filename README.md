@@ -56,6 +56,8 @@ Responda las siguientes preguntas:
 
 - **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
+La amplitud pico de subida de la señal es un valor aproximado de 2.3 divisiones por cuadro, mediante el grafico podemos observar que pasa lo mismo pero para la amplitud de bajada mediante lo cual podemos decir que el valor aproximado de la amplitud pico de la señal de salida es de 4.6 divisiones por cuadro.
+
 - **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
 La perilla de VOLTS/DIV esta en: 3
@@ -76,7 +78,7 @@ La perilla de TIME/DIV esta en: 0.1ms
 
 *f: **2500** (Hz)*
 
-*w: 2π * 2500 = **1507.9** (rad/s)*
+*w: **1507.9** (rad/s)*
 
 - **7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
 
