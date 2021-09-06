@@ -62,6 +62,8 @@ Analizamos la grafica senoidal que nos da el osciloscopio:
 
 <img src="Imagenes/simulacion3_.jpg">
 
+<img src="Imagenes/simulacion4.jpg">
+
 ## Resultados
 
 Responda las siguientes preguntas:
