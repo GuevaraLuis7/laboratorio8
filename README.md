@@ -124,7 +124,11 @@ El voltaje de salida en RL obtenido mediante el multímetro digital es aproximad
 
 - **Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 
-*¿Coinciden? _______ ¿Por qué?*
+*¿Coinciden?, ¿Por qué?*
+
+Se puede decir que no coinciden ya que con el múltimetro se calcula el voltaje RMS o eficaz y con el osciloscopio se obtiene el voltaje pico, para poder obtener nuestro voltaje eficaz se hizo el calculo respectivo, y se comprobo que son parecidos.
+
+***% ERROR RELATIVO***
 
 ## Video
 
