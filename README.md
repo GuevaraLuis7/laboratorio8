@@ -64,15 +64,15 @@ Responda las siguientes preguntas:
 
 - **7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-*Amplitud de voltaje: 6.85 (V)*
+*Amplitud de voltaje: **6.85** (V)*
 
 *Periodo: ………….(s)*
 
 - **Determine la frecuencia natural (Hz) y la frecuencia angula (rad/s) de la señal de salida.**
 
-*f: 2500 (Hz)*
+*f: **2500** (Hz)*
 
-*w: 2π * 2500 = 1507.9 (rad/s)*
+*w: 2π * 2500 = **1507.9** (rad/s)*
 
 - **7.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
 
