@@ -63,7 +63,7 @@ La perilla de VOLTS/DIV esta en: 3
 - **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 - **¿En qué valor está posicionada la perilla TIME/DIV?**
-- 
+
 La perilla de TIME/DIV esta en: 1ms
 
 - **7.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
