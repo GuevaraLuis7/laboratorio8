@@ -140,6 +140,8 @@ https://youtu.be/hjIKleN7Hjg
 
 - Esta práctica fue de gran ayuda puesto que mejoramos nuestros conocimientos sobre el uso del Osciloscopio, además que mediante la simulación se aprendio más del uso de este tipo de aparatos electronicos que llegaremos a usar en nuestra carrera y en nuestra vida laboral.
 
+- Podemos concluir que la onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. De igual manera responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio.
+
 ## Bibliografía 
 
 - Boylestad, R. 2011. Introducción al análisis de circuitos. 12va. Edición. Pearson. 327-376.
