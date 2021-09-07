@@ -142,6 +142,8 @@ https://youtu.be/hjIKleN7Hjg
 
 - Podemos concluir que la onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo. De igual manera responden a la misma forma, todas las corrientes destinadas a generar los campos electromagnéticos de las ondas de radio.
 
+- Con este laboratorio pudimos observar cada aspecto de las ondas asi como su amplitud, su periodo, sus valores en cada punto como el voltaje pico, voltaje pico a pico, el voltaje eficaz que se mide con el multimetro y entender que el voltaje eficaz es 0.707 veces el volteje pico que nos muestra el osciloscopiop.
+
 ## Bibliografía 
 
 - Boylestad, R. 2011. Introducción al análisis de circuitos. 12va. Edición. Pearson. 327-376.
