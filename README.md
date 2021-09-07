@@ -134,6 +134,8 @@ Se puede decir que no coinciden ya que con el múltimetro se calcula el voltaje 
 
 ## Video
 
+https://youtu.be/hjIKleN7Hjg
+
 ## Conclusiones
 
 - Esta práctica fue de gran ayuda puesto que mejoramos nuestros conocimientos sobre el uso del Osciloscopio, además que mediante la simulación se aprendio más del uso de este tipo de aparatos electronicos que llegaremos a usar en nuestra carrera y en nuestra vida laboral.
